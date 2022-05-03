@@ -1,0 +1,4 @@
+nomeProduto : notebook intel core i9
+valorProduto : 5599.90
+valorDesconto : 100
+quantidadeParcelas : 2
